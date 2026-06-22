@@ -13,10 +13,6 @@
 		928EF3B32FE549A800C23E53 /* Common.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 928EF3B12FE549A800C23E53 /* Common.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		928EF3EC2FE55BF400C23E53 /* Home.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 928EF3EB2FE55BF400C23E53 /* Home.xcframework */; };
 		928EF3ED2FE55BF400C23E53 /* Home.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 928EF3EB2FE55BF400C23E53 /* Home.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		928EF3F62FE5738A00C23E53 /* Home in Frameworks */ = {isa = PBXBuildFile; productRef = 928EF3F52FE5738A00C23E53 /* Home */; settings = {ATTRIBUTES = (Weak, ); }; };
-		928EF3FB2FE574B900C23E53 /* Common in Frameworks */ = {isa = PBXBuildFile; productRef = 928EF3FA2FE574B900C23E53 /* Common */; settings = {ATTRIBUTES = (Weak, ); }; };
-		928EF3FE2FE574C400C23E53 /* Login in Frameworks */ = {isa = PBXBuildFile; productRef = 928EF3FD2FE574C400C23E53 /* Login */; settings = {ATTRIBUTES = (Weak, ); }; };
-		92FDAD622FE9037D003A6A19 /* Common in Frameworks */ = {isa = PBXBuildFile; productRef = 92FDAD612FE9037D003A6A19 /* Common */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,11 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				928EF3FE2FE574C400C23E53 /* Login in Frameworks */,
-				928EF3FB2FE574B900C23E53 /* Common in Frameworks */,
 				928EF3EC2FE55BF400C23E53 /* Home.xcframework in Frameworks */,
-				928EF3F62FE5738A00C23E53 /* Home in Frameworks */,
-				92FDAD622FE9037D003A6A19 /* Common in Frameworks */,
 				928EF3B22FE549A800C23E53 /* Common.xcframework in Frameworks */,
 				928EF37C2FE5474F00C23E53 /* Login.xcframework in Frameworks */,
 			);
@@ -116,10 +108,6 @@
 			);
 			name = AppShell;
 			packageProductDependencies = (
-				928EF3F52FE5738A00C23E53 /* Home */,
-				928EF3FA2FE574B900C23E53 /* Common */,
-				928EF3FD2FE574C400C23E53 /* Login */,
-				92FDAD612FE9037D003A6A19 /* Common */,
 			);
 			productName = AppShell;
 			productReference = 92DB90F42FE5423400D8929F /* AppShell.app */;
@@ -389,25 +377,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		928EF3F52FE5738A00C23E53 /* Home */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Home;
-		};
-		928EF3FA2FE574B900C23E53 /* Common */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Common;
-		};
-		928EF3FD2FE574C400C23E53 /* Login */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Login;
-		};
-		92FDAD612FE9037D003A6A19 /* Common */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Common;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 92DB90EC2FE5423300D8929F /* Project object */;
 }
