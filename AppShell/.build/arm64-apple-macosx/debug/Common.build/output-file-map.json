@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/primary.swiftdeps"
+  },
+  "/Users/neosoft/Desktop/boAt POC/Permission_user/Common/Common/Common.swift": {
+    "dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.d",
+    "object": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.swift.o",
+    "swiftmodule": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common~partial.swiftmodule",
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.swiftdeps",
+    "diagnostics": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.dia"
+  }
+}

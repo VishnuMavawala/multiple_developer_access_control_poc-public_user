@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/primary.swiftdeps"
+  },
+  "/Users/neosoft/Desktop/boAt POC/Permission_user/Home/Home/HomeView.swift": {
+    "dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.d",
+    "object": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.swift.o",
+    "swiftmodule": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.swiftdeps",
+    "diagnostics": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.dia"
+  }
+}

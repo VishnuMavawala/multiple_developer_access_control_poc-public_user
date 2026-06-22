@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/primary.swiftdeps"
+  },
+  "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/AppShellApp.swift": {
+    "dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.d",
+    "object": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.swift.o",
+    "swiftmodule": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.swiftdeps",
+    "diagnostics": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.dia"
+  },
+  "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/ContentView.swift": {
+    "dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.d",
+    "object": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.swift.o",
+    "swiftmodule": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.dia"
+  }
+}

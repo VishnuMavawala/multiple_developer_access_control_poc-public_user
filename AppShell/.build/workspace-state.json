@@ -1,0 +1,76 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "appshell",
+          "kind" : "root",
+          "location" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell",
+          "name" : "AppShell"
+        },
+        "path" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Framework/Login.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "LoginBinaryTargetAppShell"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "home",
+          "kind" : "fileSystem",
+          "location" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Home",
+          "name" : "Home"
+        },
+        "path" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Framework/Login.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "LoginBinaryTargetHome"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "common",
+          "kind" : "fileSystem",
+          "location" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Common",
+          "name" : "Common"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Common"
+        },
+        "subpath" : "common"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "home",
+          "kind" : "fileSystem",
+          "location" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Home",
+          "name" : "Home"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Home"
+        },
+        "subpath" : "home"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

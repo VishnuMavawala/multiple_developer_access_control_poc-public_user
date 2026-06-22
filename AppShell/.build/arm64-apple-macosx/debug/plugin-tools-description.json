@@ -1,0 +1,590 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AppShell-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/sources",
+      "importPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/AppShellApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Common.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Home.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AppShell",
+      "moduleOutputPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/AppShell.swiftmodule",
+      "objects" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.swift.o",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/include/AppShell-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "appshell"
+      ],
+      "outputFileMapPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/AppShellApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/AppShell.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/AppShellApp.swift",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/ContentView.swift"
+      ],
+      "tempsPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Common-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/sources",
+      "importPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Common/Common/Common.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Common",
+      "moduleOutputPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Common.swiftmodule",
+      "objects" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/include/Common-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "common"
+      ],
+      "outputFileMapPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/Common.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Common.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/Common/Common/Common.swift"
+      ],
+      "tempsPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Home-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/sources",
+      "importPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Home/Home/HomeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Common.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Home",
+      "moduleOutputPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Home.swiftmodule",
+      "objects" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/include/Home-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "home"
+      ],
+      "outputFileMapPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/HomeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules/Home.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/neosoft/Desktop/boAt POC/Permission_user/Home/Home/HomeView.swift"
+      ],
+      "tempsPath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AppShell" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AppShell",
+      "-package-name",
+      "appshell",
+      "-c",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/AppShellApp.swift",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/ContentView.swift",
+      "-I",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/include/AppShell-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "appshell",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Common" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Common",
+      "-package-name",
+      "common",
+      "-c",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/Common/Common/Common.swift",
+      "-I",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/include/Common-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "common",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Home" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Home",
+      "-package-name",
+      "home",
+      "-c",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/Home/Home/HomeView.swift",
+      "-I",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/include/Home-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "home",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AppShell" : [
+      "Home",
+      "LoginBinaryTargetHome",
+      "Common",
+      "LoginBinaryTargetAppShell"
+    ],
+    "Common" : [
+
+    ],
+    "Home" : [
+      "Common",
+      "LoginBinaryTargetHome"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/AppShellApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/AppShell/ContentView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/AppShell.build/sources"
+    },
+    "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Common/Common/Common.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Common.build/sources"
+    },
+    "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/neosoft/Desktop/boAt POC/Permission_user/Home/Home/HomeView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/Home.build/sources"
+    },
+    "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/neosoft/Desktop/boAt POC/Permission_user/AppShell/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
